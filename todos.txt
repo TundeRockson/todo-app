@@ -1,11 +1,12 @@
 Ocky
 Update the OS presenter
 play
-eat
-
+Eat
+Food
 make soup
 make pizza
 Hi
 Hek
 test
 edi
+last
